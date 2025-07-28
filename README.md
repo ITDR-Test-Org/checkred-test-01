@@ -1,1 +1,2 @@
-# checkred-t
+password = ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ012345678
+weed
