@@ -1,3 +1,3 @@
 password = ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
 efe
-tanmay@checkred.com
+tanmay@checkred.in
